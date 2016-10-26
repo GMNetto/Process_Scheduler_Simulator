@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1398817970 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	"Processo.h"
+	"FilaProcessoTempoReal.h"
+	"MemoriaPrincipal.h"
+	"Arquivo.h"
+
+1398817795 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\filaprocesso.c
+	"FilaProcesso.h"
+
+1398712581 c:\users\gustavo\documents\codeblock projects\trabalhoso\filaprocesso.h
+	"Processo.h"
+
+1398385997 c:\users\gustavo\documents\codeblock projects\trabalhoso\processo.h
+	<stdlib.h>
+
+1398716343 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\filaprocessotemporeal.c
+	"FilaProcessoTempoReal.h"
+
+1398713145 c:\users\gustavo\documents\codeblock projects\trabalhoso\filaprocessotemporeal.h
+	"FilaProcesso.h"
+	"FilaProcessoUsuario.h"
+
+1398712581 c:\users\gustavo\documents\codeblock projects\trabalhoso\filaprocessousuario.h
+	"FilaProcesso.h"
+
+1398713145 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\filaprocessousuario.c
+	"FilaProcessoUsuario.h"
+
+1398815925 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\arquivo.c
+	"Arquivo.h"
+	<windows.h>
+
+1398814480 c:\users\gustavo\documents\codeblock projects\trabalhoso\arquivo.h
+	"Processo.h"
+	"FilaProcesso.h"
+	<stdio.h>
+
+1398724343 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\memoriaprincipal.c
+	"MemoriaPrincipal.h"
+
+1398724343 c:\users\gustavo\documents\codeblock projects\trabalhoso\memoriaprincipal.h
+	"FilaProcesso.h"
+
+1398385997 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\processo.c
+	"Processo.h"
+
+1398301439 source:c:\users\gustavo\documents\codeblock projects\trabalhoso\processousuariosuspenso.c
+	"ProcessoUsuarioSuspenso.h"
+
+1398301384 c:\users\gustavo\documents\codeblock projects\trabalhoso\processousuariosuspenso.h
+	"FilaProcesso.h"
+

@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0040180B
+eax=00000000 ebx=20042180 ecx=61187720 edx=00000000 esi=200421E0 edi=003EAD20
+ebp=7EFACE08 esp=7EFACDF0 program=C:\Users\Gustavo\Documents\CodeBlock projects\TrabalhoSO\bin\Debug\TrabalhoSO.exe, pid 9580, thread unknown (0xA08)
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace
